@@ -51,6 +51,5 @@ creatinine clearance.
 
 **Tools:** Python (base), Pandas, Matplotlib.
 
-**Notebook:** [day19_mini_analysis.ipynb](notebooks/day19_mini_analysis.ipynb)
-
-![Glucose distribution chart](data/day19_glucose_outliers.png)
+**Notebook:** [day19_mini_analysis.ipynb](day19_mini_analysis.ipynb)
+![Glucose distribution chart](day19_glucose_outliers.png)
