@@ -1,3 +1,15 @@
+## Portfolio Projects
+
+### Project 2 — Malaria Incidence Across Africa (2007–2017)
+Computational analysis of malaria trends across 54 African countries.  
+Findings: 16% continental decline, Nigeria burden double the average, 
+Ebola-linked plateau 2014–2016.  
+[View project →](https://github.com/DivineBenita/malaria-africa-analysis)
+
+### Project 1 — Diabetes Glucose Analysis  
+Statistical analysis of blood glucose patterns in the Pima Indians 
+Diabetes Dataset (768 patients).  
+[View notebook](day19_mini_analysis.ipynb)
 # Pharmacology Python Exercises
 
 Python exercises and biomedical data analysis built during my 
